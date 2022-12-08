@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Praveen/AndroidStudioProjects/JustMathApp/app/src/main/res/drawable/circle.xml" value="0.1895" />
+        <entry key="..\:/Users/Praveen/AndroidStudioProjects/JustMathApp/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.1895" />
+        <entry key="..\:/Users/Praveen/AndroidStudioProjects/JustMathApp/app/src/main/res/drawable/ic_baseline_play_arrow_24.xml" value="0.1895" />
+        <entry key="..\:/Users/Praveen/AndroidStudioProjects/JustMathApp/app/src/main/res/drawable/ic_baseline_share_24.xml" value="0.1895" />
+        <entry key="..\:/Users/Praveen/AndroidStudioProjects/JustMathApp/app/src/main/res/drawable/ic_baseline_star_24.xml" value="0.1895" />
+        <entry key="..\:/Users/Praveen/AndroidStudioProjects/JustMathApp/app/src/main/res/drawable/ic_baseline_star_border_24.xml" value="0.1895" />
+        <entry key="..\:/Users/Praveen/AndroidStudioProjects/JustMathApp/app/src/main/res/drawable/ic_round_done_24.xml" value="0.1895" />
+        <entry key="..\:/Users/Praveen/AndroidStudioProjects/JustMathApp/app/src/main/res/layout/activity_game.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Praveen/AndroidStudioProjects/JustMathApp/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Praveen/AndroidStudioProjects/JustMathApp/app/src/main/res/layout/activity_score.xml" value="0.22826086956521738" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
